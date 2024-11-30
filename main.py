@@ -12,3 +12,8 @@ with col2:
     Hi, I am Aial! I am a Python programmer and founder of AI Sport Solution
     """
     st.info(content)
+
+content2 = """
+Below you can find some of the apps I have built in Python. Feel Free to contact me!
+"""
+st.write(content2)
